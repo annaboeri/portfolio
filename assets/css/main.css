@@ -2321,6 +2321,10 @@
 
 /* Button */
 
+	.project-btn {
+		margin-top: 10px;
+	}
+
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
